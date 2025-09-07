@@ -1,3 +1,5 @@
+--- 
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JonatasGandra&show_icons=true&title_color=3a2b17&text_color=557a95&icon_color=3a2b17&bg_color=d9dada&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Prazer, sou Jônatas Gandra!
@@ -20,3 +22,5 @@
   <a href="https://www.instagram.com/jotinhg/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-FFB5C0?style=flat-square&labelColor=FFB5C0&logo=instagram&logoColor=black&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+--- 
