@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="jonatassgandra@gmail.com" title="Gmail">
+  <a href="mailto:jonatassgandra@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-557a95?style=flat-square&labelColor=557a95&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jonatasgandra/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-557a95?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
